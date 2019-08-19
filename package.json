@@ -2,6 +2,7 @@
   "name": "InstaluraMobile",
   "version": "0.0.1",
   "private": true,
+  "proxy": "http://localhost:3030/",
   "scripts": {
     "start": "react-native start",
     "test": "jest",
